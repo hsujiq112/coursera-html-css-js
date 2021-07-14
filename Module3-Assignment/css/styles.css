@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #1d4983;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color: #30b6d8;
+    border-radius: 0;
+    border: 0;
+  }
+
+  .navbar-brand {
+    padding-top: 25px;
+  }
+  
+  .navbar-brand h1 { /* Restaurant name */
+    color: #000000;
+    font-size: 1.5em;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0px;
+    line-height: .75;
+  }
+  
+  #nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    color: #ffffff;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+  /* END HEADER */
+
+  /** BOXES **/
+  #chicken-text {
+    background-color: #1d6475;
+  }
+
+  
+  
